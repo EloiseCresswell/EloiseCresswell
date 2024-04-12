@@ -11,13 +11,13 @@ To do Step 1:
 
 🚀Create a Basic Web Page:
 Create a simple HTML file (e.g., index.html) with a placeholder message like "Welcome to Eloise Cresswell Studio!". ✅
-Add and commit this file to your GitHub repository
+Add and commit this file to your GitHub repository ✅
 
 🚀Set up GitHub Actions:
-Create a .github/workflows directory in your GitHub repository.
-Inside this directory, create a YAML file (e.g., deploy.yml) to define your CI/CD workflow.
+Create a .github/workflows directory in your GitHub repository. ✅
+Inside this directory, create a YAML file (e.g., deploy.yml) to define your CI/CD workflow. ✅
 Configure the workflow to trigger on every push to the main branch.
-Define the steps needed to build and deploy your website. Since it's a static site, you might only need to copy files to a server.
+Define the steps needed to build and deploy your website. Since it's a static site, you might only need to copy files to a server. ✅
 
 🚀Configure Deployment:
 Decide where you want to deploy your site. Since I have a domain name (eloisecresswell.studio), I'll need to host it somewhere.
