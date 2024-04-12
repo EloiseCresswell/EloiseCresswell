@@ -16,13 +16,12 @@ Add and commit this file to your GitHub repository ✅
 🚀Set up GitHub Actions:
 Create a .github/workflows directory in your GitHub repository. ✅
 Inside this directory, create a YAML file (e.g., deploy.yml) to define your CI/CD workflow. ✅
-Configure the workflow to trigger on every push to the main branch.
+Configure the workflow to trigger on every push to the main branch. ✅
 Define the steps needed to build and deploy your website. Since it's a static site, you might only need to copy files to a server. ✅
 
 🚀Configure Deployment:
-Decide where you want to deploy your site. Since I have a domain name (eloisecresswell.studio), I'll need to host it somewhere.
-Choose a hosting provider. Options include GitHub Pages, Netlify, Vercel, AWS S3, or others.
-Set up your hosting provider to serve my website. This might involve configuring DNS settings for my domain.
+Decide where you want to deploy your site using GitHub Pages
+Set up my hosting provider to serve my website. This might involve configuring DNS settings for my domain.
 
 🚀Connect Domain Name:
 Configure my DNS settings to point my domain (eloisecresswell.studio) to the hosting provider where my site is deployed.
