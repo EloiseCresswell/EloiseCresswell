@@ -1,4 +1,4 @@
-# eloise_portfolio
+#Eloise Cresswell
 
 Hi there 👋 , I'm Eloise and I have just completed a immersive 16 week bootcamp with the School of Code. During this bootcamp, I have really enjoyed learning about all things Front-End and AI and am hoping to continue to build and develop those skills. 
 
