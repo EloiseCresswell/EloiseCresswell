@@ -1,32 +1,19 @@
 # eloise_portfolio
 
+Hi there 👋 , I'm Eloise and I have just completed a immersive 16 week bootcamp with the School of Code. During this bootcamp, I have really enjoyed learning about all things Front-End and AI and am hoping to continue to build and develop those skills. 
+
+I currently live in Birmingham, UK and am actively seeking employment. 
+
 My Portfolio - eloisecresswell.studio
-This is my initial attempt at a portfolio... aims are
+My linked in - https://www.linkedin.com/in/eloise-cresswell-34ba9918a/
 
-1. Create a pipeline that (as a minimum) facilitates Continuous Delivery (CD) from the main branch of your repo, connected to your and have a placeholder page deployed with a first commit
-   2)Plan and wireframe an initial prototype for your portfolio, ready to get some quick feedback from others
+My Favourite Personal Projects
+Spelling Bee : https://eloisecresswell.github.io/SpellingBeeEloise/
+Weather App : https://weather-api-steel-three.vercel.app/
+Fireplace Palace: https://fireplace-sepia.vercel.app/
+U-Plot: https://u-plot.netlify.app/ (this was created as a team with the School of Code for our final 4 week project)
+E-Commerce: https://github.com/EloiseCresswell/e-commerce
+Surf Forecast: https://github.com/EloiseCresswell/Surf_Forecast
+CSS Animation: https://github.com/EloiseCresswell/Surf_Animation
 
-To do Step 1:
-🚀Choose a Continuous Integration / Continuous Deployment (CI/CD) Tool: GitHub Actions (for now) ✅
-
-🚀Create a Basic Web Page:
-Create a simple HTML file (e.g., index.html) with a placeholder message like "Welcome to Eloise Cresswell Studio!". ✅
-Add and commit this file to your GitHub repository ✅
-
-🚀Set up GitHub Actions:
-Create a .github/workflows directory in your GitHub repository. ✅
-Inside this directory, create a YAML file (e.g., deploy.yml) to define your CI/CD workflow. ✅
-Configure the workflow to trigger on every push to the main branch. ✅
-Define the steps needed to build and deploy your website. Since it's a static site, you might only need to copy files to a server. ✅
-
-🚀Configure Deployment and Connect Domain Name:
-Set up my hosting provider to serve my website. ✅✅
-Configure my DNS settings to point my domain (eloisecresswell.studio) to the hosting provider where my site is deployed. ✅
-This might involve configuring DNS settings for my domain.
-
-🚀Test Deployment:
-Push a commit to the main branch of your repository to trigger the CI/CD pipeline.
-Verify that your website is deployed correctly and accessible at your domain (eloisecresswell.studio).
-Customize Placeholder Page:
-
-Once deployed, then I can customize the placeholder page with desired content, design, and branding. (Step 2 is a basic wireframe of this)
+Thanks so much for your time 
