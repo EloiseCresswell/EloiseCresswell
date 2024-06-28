@@ -11,7 +11,7 @@ I currently live in Birmingham, UK, and am actively seeking employment.
 [LinkedIn](https://www.linkedin.com/in/eloise-cresswell-34ba9918a/)
 
 ## My Favourite Personal Projects
-- [SoberNights] (https://www.sobernightshq.com/) - Personal project designed to showcase bars and pubs across Birmingham with alcohol-free options. Created with Leigh White 
+- [SoberNights](https://www.sobernightshq.com/) - Personal project designed to showcase bars and pubs across Birmingham with alcohol-free options. Created with Leigh White 
 - [Spelling Bee](https://eloisecresswell.github.io/SpellingBeeEloise/)
 - [Weather App](https://weather-api-steel-three.vercel.app/)
 - [Fireplace Palace](https://fireplace-sepia.vercel.app/)
